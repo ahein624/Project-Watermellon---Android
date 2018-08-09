@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:13:9-15:20
+	android:grantUriPermissions
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:13:92-126
+	android:authorities
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:13:19-66
+	android:exported
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:13:67-91
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:13:127-181
+provider#de.appplant.cordova.emailcomposer.Provider
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:16:9-18:20
+	android:grantUriPermissions
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:16:92-126
+	android:authorities
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:16:19-66
+	android:exported
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:16:67-91
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:16:127-184
+manifest
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/632e4ed974c201c9d9d852847dbbdc4a/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/e460e088bd09f525438bb9b4c2097169/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/3b8665d23e628f4d25dc07a688f58177/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7da6537ef5f959c0e04fd2b60ff35dbd/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/322e253297eacc5bf01f9b37998131b5/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/aa907db75e55e3a341f9fc8f9dcd7fba/AndroidManifest.xml:17:1-27:12
+MERGED from [:CordovaLib] /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/CordovaLib/build/intermediates/manifests/full/release/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/62446cf3786861441149ea446a0a340c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/424bfd1d422a1bb85df74b331cef8348/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/d8e96201bbb1fcb665bacbd723706a12/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1e83e960a5c5388fb3c0c5530666788e/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/aa928b10733742784d453d179b3098f3/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:100-130
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:74-99
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:131-189
+	android:versionCode
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+		INJECTED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml
+supports-screens
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/e460e088bd09f525438bb9b4c2097169/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/e460e088bd09f525438bb9b4c2097169/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/3b8665d23e628f4d25dc07a688f58177/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/3b8665d23e628f4d25dc07a688f58177/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7da6537ef5f959c0e04fd2b60ff35dbd/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7da6537ef5f959c0e04fd2b60ff35dbd/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/322e253297eacc5bf01f9b37998131b5/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/322e253297eacc5bf01f9b37998131b5/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/aa907db75e55e3a341f9fc8f9dcd7fba/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/aa907db75e55e3a341f9fc8f9dcd7fba/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/62446cf3786861441149ea446a0a340c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/62446cf3786861441149ea446a0a340c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/424bfd1d422a1bb85df74b331cef8348/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/424bfd1d422a1bb85df74b331cef8348/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/d8e96201bbb1fcb665bacbd723706a12/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/d8e96201bbb1fcb665bacbd723706a12/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1e83e960a5c5388fb3c0c5530666788e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1e83e960a5c5388fb3c0c5530666788e/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/aa928b10733742784d453d179b3098f3/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/aa928b10733742784d453d179b3098f3/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:5:53-80
+activity#com.westmorelandfair.MainActivity
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:9-11:20
+	android:screenOrientation
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:194-230
+	android:label
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:294-336
+	android:configChanges
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:231-293
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:6:166-193
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:9:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:12:9-233
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:12:19-128
+	android:theme
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:12:182-230
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:12:129-181
+activity#com.keyes.youtube.OpenYouTubePlayerActivity
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:19:9-118
+	android:screenOrientation
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:19:78-115
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:19:19-77
+activity#com.bunkerpalace.cordova.YouTubeActivity
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:9-321
+	android:label
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:97-134
+	android:launchMode
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:276-318
+	android:configChanges
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:19-96
+	android:theme
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:222-275
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:20:166-221
+uses-sdk
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:22:5-74
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/632e4ed974c201c9d9d852847dbbdc4a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/632e4ed974c201c9d9d852847dbbdc4a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/e460e088bd09f525438bb9b4c2097169/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/e460e088bd09f525438bb9b4c2097169/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/3b8665d23e628f4d25dc07a688f58177/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/3b8665d23e628f4d25dc07a688f58177/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7da6537ef5f959c0e04fd2b60ff35dbd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7da6537ef5f959c0e04fd2b60ff35dbd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/322e253297eacc5bf01f9b37998131b5/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/322e253297eacc5bf01f9b37998131b5/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/aa907db75e55e3a341f9fc8f9dcd7fba/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/aa907db75e55e3a341f9fc8f9dcd7fba/AndroidManifest.xml:21:5-23:54
+MERGED from [:CordovaLib] /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/CordovaLib/build/intermediates/manifests/full/release/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/CordovaLib/build/intermediates/manifests/full/release/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/62446cf3786861441149ea446a0a340c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/62446cf3786861441149ea446a0a340c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/424bfd1d422a1bb85df74b331cef8348/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/424bfd1d422a1bb85df74b331cef8348/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/d8e96201bbb1fcb665bacbd723706a12/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/d8e96201bbb1fcb665bacbd723706a12/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1e83e960a5c5388fb3c0c5530666788e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/1e83e960a5c5388fb3c0c5530666788e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/aa928b10733742784d453d179b3098f3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/aa928b10733742784d453d179b3098f3/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/aa907db75e55e3a341f9fc8f9dcd7fba/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:22:42-71
+	android:minSdkVersion
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:22:15-41
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:23:5-69
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:23:22-66
+uses-feature#android.hardware.telephony
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:24:5-88
+	android:required
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:24:61-85
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:24:19-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/51e52d4662dbb1907eaf31b280655f7e/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:26:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:27:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:28:5-80
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:28:22-77
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:29:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:31:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:32:22-72
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:14:13-116
+	android:resource
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:14:75-113
+	android:name
+		ADDED from /Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/AndroidManifest.xml:14:24-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/145189d7964bc17d814d942c95aeac9f/AndroidManifest.xml:20:20-65

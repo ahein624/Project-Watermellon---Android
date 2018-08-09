@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_remove.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-xxhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi_ic_action_remove.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-hdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-xxhdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_remove.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-xhdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi_ic_action_remove.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-mdpi/ic_action_remove.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi_ic_action_next_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-hdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-xhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi_ic_action_next_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-xxhdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-mdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/xml_provider_paths.xml.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi_ic_action_next_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-mdpi/ic_action_next_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/xml_emailcomposer_provider_paths.xml.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/xml/emailcomposer_provider_paths.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/generated/res/pngs/release/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-hdpi/ic_action_previous_item.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/andrewhein/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/be2fd7696174db91a45b5f7f6f7dd9ed/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/build/intermediates/res/merged/release/drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "/Users/andrewhein/Documents/GitHub/Project-Watermellon/platforms/android/res/drawable-xhdpi/ic_action_previous_item.png"
+    }
+]
